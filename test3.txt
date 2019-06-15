@@ -1,4 +1,7 @@
 
 blablabla
 terefere
+<<<<<<< HEAD
 morele
+=======
+>>>>>>> db7ce442244b6ab19cb3b2a02dfb05d6c874ffe4
